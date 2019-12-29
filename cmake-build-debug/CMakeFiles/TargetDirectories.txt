@@ -1,0 +1,4 @@
+C:/Users/zshee/Desktop/2AA4/sheetz/A4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zshee/Desktop/2AA4/sheetz/A4/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/zshee/Desktop/2AA4/sheetz/A4/cmake-build-debug/CMakeFiles/gol.dir
+C:/Users/zshee/Desktop/2AA4/sheetz/A4/cmake-build-debug/CMakeFiles/edit_cache.dir
